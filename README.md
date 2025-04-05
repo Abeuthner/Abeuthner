@@ -17,4 +17,4 @@ Transformar desafios em soluções eficientes é o que me motiva diariamente!
 * Ferramentas: **Power BI (DAX - Linguagem M) - Python - Banco de Dados (SQL)**;
 * **Meu Lema:** Novos desafios, novos aprendizados e compartilhar conhecimento sempre!
 
-## Tecnologias e Ferramentas !(./ferramentas.png)
+## [Tecnologias e Ferramentas!](./imagens/ferramentas.png)
