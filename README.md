@@ -17,4 +17,17 @@ Transformar desafios em soluções eficientes é o que me motiva diariamente!
 * Ferramentas: **Power BI (DAX - Linguagem M) - Python - Banco de Dados (SQL)**;
 * **Meu Lema:** Novos desafios, novos aprendizados e compartilhar conhecimento sempre!
 
-## [Tecnologias e Ferramentas!](./imagens/ferramentas.png)
+## ![Ferramentas e Tecnologia](/imagens/ferramentas.png) "Tecnologias e Ferramentas"
+
+![Git](https://img.shields.io/badge/-Git-05122a?style=fla&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122a?style=flat&logo=github)
+![SQL](https://img.shields.io/badge/-SQL-05122a?style=flat&logo=sqlite)
+![Power BI](https://img.shields.io/badge/-Power%20BI-05122a?style=flat&logo=powerbi)
+![IA](https://img.shields.io/badge/-IA-05122a?style=flat&logo=openai)
+![Python](https://img.shields.io/badge/-Python-05122a?style=flat&logo=python)
+![Pandas](https://img.shields.io/badge/-Pandas-05122a?style=flat&logo=pandas)
+![Em Expansão](https://img.shields.io/badge/-Em%20Expansão-00BFFF?style=flat&logo=rocket)
+
+## 📞 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-beuthner/) [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:beuthner1@gmail.com)
