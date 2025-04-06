@@ -28,6 +28,6 @@ Transformar desafios em soluções eficientes é o que me motiva diariamente!
 ![Pandas](https://img.shields.io/badge/-Pandas-05122a?style=flat&logo=pandas)
 ![Em Expansão](https://img.shields.io/badge/-Em%20Expansão-00BFFF?style=flat&logo=rocket)
 
-## 📞 Contato
+## 📞 Contatos
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-beuthner/) [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:beuthner1@gmail.com)
