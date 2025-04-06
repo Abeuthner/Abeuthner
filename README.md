@@ -2,7 +2,7 @@
 
 Seja Bem Vindo ao meu perfil!
 
-## Quem eu sou?
+## Quem sou Eu?
 
 Tenho mais de 13 anos de experiência no setor financeiro, onde desenvolvi uma ampla gama de habilidades, como compreender as necessidades do público, realizar análises econômicas macro e trabalhar com curvas de juros, entre outras. Foi na função de Operadora Financeira que redescobri minha paixão por dados e automação de processos.
 
